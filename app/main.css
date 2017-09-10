@@ -1,4 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 body {
 	font-family: "Titillium Web", sans-serif;
+	  background-color: #ABC5EB;
+	}
+h1{
+  font-family:"Titillium Web", sans-serif;
+  font-size: 72px;
+  text-decoration-color: #303461;
+  color:#00051D;
+}
+h3{
+  font-family:"Titillium Web", sans-serif;
+  font-size: 22px;
+  text-decoration-color: #303461;
+  color:#303461;
+}
+ol{
+  font-family:"Titillium Web", sans-serif;;
+  font-size: 18px;
+  text-decoration-color: #303461;
+  color:#303461;
+}
+p{
+  font-family:"Titillium Web", sans-serif;;
+  font-size: 12px;
+  text-decoration-color: #303461;
+  color:#303461;
+}
+output{
+  font-family:"Titillium Web", sans-serif;;
+  font-size: 12px;
+  text-decoration-color: #303461;
+  color:#303461;
+}
+input{
+  font-family:"Titillium Web", sans-serif;;
+  font-size: 12px;
+  text-decoration-color: #303461;
+  color:#303461;
+}
+button{
+  font-family:"Titillium Web", sans-serif;;
+  font-size: 22px;
+  text-decoration-color: #303461;
+  color:#303461;
 }
